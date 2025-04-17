@@ -14,3 +14,8 @@ A productivity web app built with React, Firebase, and Vite to help users organi
 ## Live Demo
 [Visit the app](https://focusgalaxy-14fa0.web.app)
 
+##Technologies
+React, React Router
+Firebase (Auth, Firestore)
+Vite
+CSS

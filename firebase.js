@@ -6,13 +6,10 @@ import { getAnalytics } from 'firebase/analytics'; // Keep this if you want anal
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDVPoJ1ryyJCk8MtAeFtX8GH9l564LaIM8",
-  authDomain: "focusgalaxy-14fa0.firebaseapp.com",
-  projectId: "focusgalaxy-14fa0",
-  storageBucket: "focusgalaxy-14fa0.firebasestorage.app", // Fixed typo (was .app, should be .appspot.com)
-  messagingSenderId: "983766366742",
-  appId: "1:983766366742:web:ec8d0ea9755f85ab659337",
-  measurementId: "G-DGFF6H2KBT"
+  apiKey: "AIzaSy...",
+  authDomain: "prodective-planner-xyz.firebaseapp.com",
+  projectId: "prodective-planner-xyz",
+  ...
 };
 
 // Initialize Firebase
